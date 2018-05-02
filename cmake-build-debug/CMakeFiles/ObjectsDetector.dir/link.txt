@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ObjectsDetector.dir/main.cpp.o  -o ObjectsDetector /usr/lib/libopencv_highgui.so.3.4.1 /usr/lib/libopencv_objdetect.so.3.4.1 /usr/lib/libopencv_dnn.so.3.4.1 /usr/lib/libopencv_videoio.so.3.4.1 /usr/lib/libopencv_imgcodecs.so.3.4.1 /usr/lib/libopencv_imgproc.so.3.4.1 /usr/lib/libopencv_core.so.3.4.1 

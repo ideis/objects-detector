@@ -1,0 +1,5 @@
+/opt/clion-2017.3.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ideis/Code/C++/ObjectsDetector
+-- Found OpenCV: /usr (found version "3.4.1") found components:  core highgui imgproc objdetect dnn 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ideis/Code/C++/ObjectsDetector/cmake-build-debug
